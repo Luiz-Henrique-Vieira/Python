@@ -1,2 +1,2 @@
-profissao = input("Qual a sua profissão? ")
+profIssao = input("Qual a sua profissão? ")
 print(profissao)
