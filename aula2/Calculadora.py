@@ -1,5 +1,5 @@
 import os
-os.system("cls")
+os.system("CLS")
 
 num1 = float(input('Digite seu 1° numero: '))
 num2 = float(input('Digite seu 2° numero: '))

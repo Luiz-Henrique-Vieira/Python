@@ -1,5 +1,5 @@
 import os
-os.system('cls')
+os.system('clS')
 
 import math
 
